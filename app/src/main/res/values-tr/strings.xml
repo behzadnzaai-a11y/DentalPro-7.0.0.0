@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DentalPro</string>
+    <string name="dashboard">Yönetim Paneli</string>
+    <string name="nav_patients">Hasta Dosyaları</string>
+    <string name="nav_appointments">Randevular ve Takvim</string>
+    <string name="nav_billing">Mali İşler ve Kasa</string>
+    <string name="nav_lab">Diş Laboratuvarı</string>
+    <string name="nav_rx">Reçeteler</string>
+    <string name="nav_reports">Raporlar ve Analizler</string>
+    <string name="nav_settings">Klinik Ayarları</string>
+    <string name="nav_vendors">Tedarikçiler ve Faturalar</string>
+    <string name="nav_maintenance">Bakım ve Onarım</string>
+    <string name="nav_expenses">Giderler</string>
+    <string name="nav_personal">Kişisel Muhasebe</string>
+    <string name="nav_more">Diğer Modüller</string>
+
+    <string name="action_add_patient">Yeni Hasta</string>
+    <string name="action_search">Ara…</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_cancel">İptal</string>
+    <string name="action_delete">Sil</string>
+    <string name="action_edit">Düzenle</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_backup">Yedekle</string>
+    <string name="action_restore">Geri Yükle</string>
+    <string name="action_print">Yazdır</string>
+    <string name="action_whatsapp">WhatsApp ile Gönder</string>
+
+    <string name="role_doctor">Hekim (Klinik Yöneticisi)</string>
+    <string name="role_assistant">Sekreter / Asistan</string>
+    <string name="role_accountant">Klinik Muhasebecisi</string>
+    <string name="role_switch_prompt">Rolü değiştirmek için Yönetici PIN kodunu giriniz</string>
+
+    <string name="currency_toman">Tümen</string>
+    <string name="currency_rial">Riyal</string>
+    <string name="currency_usd">USD ($)</string>
+    <string name="currency_eur">EUR (€)</string>
+
+    <string name="entity_treatment_stages">Tedavi Aşamaları</string>
+    <string name="entity_patient_documents">Hasta Belgeleri ve Radyografiler</string>
+    <string name="entity_vendor_invoices">Tedarikçi Faturaları</string>
+    <string name="access_denied_title">Erişim Reddedildi</string>
+    <string name="access_denied_message">Mevcut rolünüz bu modüle erişim iznine sahip değil.</string>
+
+    <string name="cloud_backup_title">Bulut Yedekleme</string>
+    <string name="cloud_backup_success">Şifreli bulut yedekleme başarıyla tamamlandı.</string>
+    <string name="local_backup_title">Yerel Yedekleme</string>
+    <string name="local_backup_success">Tüm kayıtlar ve belgeler içeren yedekleme oluşturuldu.</string>
+    <string name="auto_backup">Otomatik Yedekleme</string>
+</resources>

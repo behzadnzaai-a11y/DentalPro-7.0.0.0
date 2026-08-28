@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DentalPro</string>
+    <string name="dashboard">仪表板</string>
+    <string name="nav_patients">患者档案</string>
+    <string name="nav_appointments">预约与日程</string>
+    <string name="nav_billing">财务与出纳</string>
+    <string name="nav_lab">齿科技工所</string>
+    <string name="nav_rx">处方管理</string>
+    <string name="nav_reports">报表与统计</string>
+    <string name="nav_settings">诊所设置</string>
+    <string name="nav_vendors">供应商与发票</string>
+    <string name="nav_maintenance">设备维护</string>
+    <string name="nav_expenses">日常开支</string>
+    <string name="nav_personal">个人账目</string>
+    <string name="nav_more">更多模块</string>
+
+    <string name="action_add_patient">新患者</string>
+    <string name="action_search">搜索…</string>
+    <string name="action_save">保存</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_delete">删除</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_share">分享</string>
+    <string name="action_backup">备份</string>
+    <string name="action_restore">恢复数据</string>
+    <string name="action_print">打印</string>
+    <string name="action_whatsapp">通过 WhatsApp 发送</string>
+
+    <string name="role_doctor">医生（临床主管）</string>
+    <string name="role_assistant">助理 / 秘书</string>
+    <string name="role_accountant">诊所会计</string>
+    <string name="role_switch_prompt">请输入主管 PIN 码以切换角色</string>
+
+    <string name="currency_toman">托曼</string>
+    <string name="currency_rial">里亚尔</string>
+    <string name="currency_usd">美元 ($)</string>
+    <string name="currency_eur">欧元 (€)</string>
+
+    <string name="entity_treatment_stages">治疗阶段</string>
+    <string name="entity_patient_documents">患者文档与放射影像</string>
+    <string name="entity_vendor_invoices">供应商发票</string>
+    <string name="access_denied_title">访问被拒绝</string>
+    <string name="access_denied_message">您当前的角色无权访问此模块。</string>
+
+    <string name="cloud_backup_title">云端备份</string>
+    <string name="cloud_backup_success">加密云端备份成功完成。</string>
+    <string name="local_backup_title">本地备份</string>
+    <string name="local_backup_success">已成功创建包含所有记录和图像的本地备份。</string>
+    <string name="auto_backup">自动备份</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">دينتال برو</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="nav_patients">سجلات المرضى</string>
+    <string name="nav_appointments">المواعيد والتقويم</string>
+    <string name="nav_billing">المالية والخزينة</string>
+    <string name="nav_lab">مختبر الأسنان</string>
+    <string name="nav_rx">الوصفات الطبية</string>
+    <string name="nav_reports">التقارير والإحصائيات</string>
+    <string name="nav_settings">إعدادات العيادة</string>
+    <string name="nav_vendors">الموردون والفواتير</string>
+    <string name="nav_maintenance">الصيانة الدورية</string>
+    <string name="nav_expenses">المصروفات</string>
+    <string name="nav_personal">المحاسبة الشخصية</string>
+    <string name="nav_more">المزيد</string>
+
+    <string name="action_add_patient">مريض جديد</string>
+    <string name="action_search">بحث…</string>
+    <string name="action_save">حفظ</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_edit">تعديل</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_backup">نسخ احتياطي</string>
+    <string name="action_restore">استعادة البيانات</string>
+    <string name="action_print">طباعة</string>
+    <string name="action_whatsapp">إرسال عبر واتساب</string>
+
+    <string name="role_doctor">طبيب (المدير الطبي)</string>
+    <string name="role_assistant">سكرتير / مساعد</string>
+    <string name="role_accountant">محاسب العيادة</string>
+    <string name="role_switch_prompt">أدخل رمز PIN للمدير لتغيير الدور</string>
+
+    <string name="currency_toman">تومان</string>
+    <string name="currency_rial">ريال</string>
+    <string name="currency_usd">دولار ($)</string>
+    <string name="currency_eur">يورو (€)</string>
+
+    <string name="entity_treatment_stages">مراحل العلاج</string>
+    <string name="entity_patient_documents">مستندات وصور الأشعة للمريض</string>
+    <string name="entity_vendor_invoices">فواتير الموردين</string>
+    <string name="access_denied_title">تم رفض الوصول</string>
+    <string name="access_denied_message">دورك الحالي لا يملك صلاحية الوصول لهذا القسم.</string>
+
+    <string name="cloud_backup_title">النسخ الاحتياطي السحابي</string>
+    <string name="cloud_backup_success">تم النسخ الاحتياطي السحابي المشفر بنجاح.</string>
+    <string name="local_backup_title">النسخ الاحتياطي المحلي</string>
+    <string name="local_backup_success">تم إنشاء ملف النسخ الاحتياطي مع كافة المستندات والصور.</string>
+    <string name="auto_backup">النسخ التلقائي</string>
+</resources>

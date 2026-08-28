@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- رنگ‌های Compose از Color.kt تأمین می‌شوند؛ این فایل فقط برای تم splash/system باقی می‌ماند -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DentalPro</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="nav_patients">Patientenakten</string>
+    <string name="nav_appointments">Termine &amp; Kalender</string>
+    <string name="nav_billing">Finanzen &amp; Kasse</string>
+    <string name="nav_lab">Dentallabor</string>
+    <string name="nav_rx">Rezepte</string>
+    <string name="nav_reports">Berichte &amp; Statistiken</string>
+    <string name="nav_settings">Praxiseinstellungen</string>
+    <string name="nav_vendors">Lieferanten &amp; Rechnungen</string>
+    <string name="nav_maintenance">Wartung</string>
+    <string name="nav_expenses">Ausgaben</string>
+    <string name="nav_personal">Persönliche Buchhaltung</string>
+    <string name="nav_more">Weitere Module</string>
+
+    <string name="action_add_patient">Neuer Patient</string>
+    <string name="action_search">Suchen…</string>
+    <string name="action_save">Speichern</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_backup">Sichern</string>
+    <string name="action_restore">Wiederherstellen</string>
+    <string name="action_print">Drucken</string>
+    <string name="action_whatsapp">Über WhatsApp senden</string>
+
+    <string name="role_doctor">Arzt (Leitender Zahnarzt)</string>
+    <string name="role_assistant">ZFA / Assistenz</string>
+    <string name="role_accountant">Praxisbuchhalter</string>
+    <string name="role_switch_prompt">Master-PIN eingeben, um Rolle zu wechseln</string>
+
+    <string name="currency_toman">Toman</string>
+    <string name="currency_rial">Rial</string>
+    <string name="currency_usd">USD ($)</string>
+    <string name="currency_eur">EUR (€)</string>
+
+    <string name="entity_treatment_stages">Behandlungsstufen</string>
+    <string name="entity_patient_documents">Patientendokumente &amp; Röntgen</string>
+    <string name="entity_vendor_invoices">Lieferantenrechnungen</string>
+    <string name="access_denied_title">Zugriff verweigert</string>
+    <string name="access_denied_message">Ihre aktive Rolle hat keine Berechtigung für dieses Modul.</string>
+
+    <string name="cloud_backup_title">Cloud-Backup</string>
+    <string name="cloud_backup_success">Verschlüsseltes Cloud-Backup erfolgreich erstellt.</string>
+    <string name="local_backup_title">Lokales Backup</string>
+    <string name="local_backup_success">Lokales Backup mit allen Daten und Dokumenten erstellt.</string>
+    <string name="auto_backup">Automatisches Backup</string>
+</resources>

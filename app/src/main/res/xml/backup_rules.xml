@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="database" path="dental_pro_database" />
+    <exclude domain="sharedpref" path="dental_pro_prefs.xml" />
+    <exclude domain="sharedpref" path="dental_pro_secure_prefs.xml" />
+</full-backup-content>

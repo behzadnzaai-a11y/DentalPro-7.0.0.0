@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DentalPro</string>
+    <string name="dashboard">İdarəetmə Paneli</string>
+    <string name="nav_patients">Xəstə Qovluqları</string>
+    <string name="nav_appointments">Qəbullar və Təqvim</string>
+    <string name="nav_billing">Maliyyə və Xəzinə</string>
+    <string name="nav_lab">Stomatoloji Laboratoriya</string>
+    <string name="nav_rx">Reseptlər</string>
+    <string name="nav_reports">Hesabatlar və Statistika</string>
+    <string name="nav_settings">Klinika Tənzimləmələri</string>
+    <string name="nav_vendors">Təchizatçılar və Qaimələr</string>
+    <string name="nav_maintenance">Texniki Xidmət</string>
+    <string name="nav_expenses">Xərclər</string>
+    <string name="nav_personal">Şəxsi Mühasibatlıq</string>
+    <string name="nav_more">Əlavə Bölmələr</string>
+
+    <string name="action_add_patient">Yeni Xəstə</string>
+    <string name="action_search">Axtar…</string>
+    <string name="action_save">Yadda saxla</string>
+    <string name="action_cancel">Ləğv et</string>
+    <string name="action_delete">Sil</string>
+    <string name="action_edit">Düzəliş et</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_backup">Nüsxələ</string>
+    <string name="action_restore">Bərpa et</string>
+    <string name="action_print">Çap et</string>
+    <string name="action_whatsapp">WhatsApp ilə göndər</string>
+
+    <string name="role_doctor">Həkim (Klinika Rəhbəri)</string>
+    <string name="role_assistant">Katib / Köməkçi</string>
+    <string name="role_accountant">Klinika Mühasibi</string>
+    <string name="role_switch_prompt">Rolu dəyişmək üçün Rəhbər PIN kodunu daxil edin</string>
+
+    <string name="currency_toman">Tümən</string>
+    <string name="currency_rial">Rial</string>
+    <string name="currency_usd">USD ($)</string>
+    <string name="currency_eur">EUR (€)</string>
+
+    <string name="entity_treatment_stages">Müalicə Mərhələləri</string>
+    <string name="entity_patient_documents">Xəstə Sənədləri və Renteqnlər</string>
+    <string name="entity_vendor_invoices">Təchizatçı Qaimələri</string>
+    <string name="access_denied_title">Giriş Qadağandır</string>
+    <string name="access_denied_message">Cari rolunuzun bu modula daxil olmaq icazəsi yoxdur.</string>
+
+    <string name="cloud_backup_title">Bulud Nüsxələnməsi</string>
+    <string name="cloud_backup_success">Şifrələnmiş bulud nüsxələnməsi uğurla tamamlandı.</string>
+    <string name="local_backup_title">Yerli Nüsxələnmə</string>
+    <string name="local_backup_success">Bütün qeydlər və sənədlərlə yerli nüsxə yaradıldı.</string>
+    <string name="auto_backup">Avtomatik Nüsxələnmə</string>
+</resources>

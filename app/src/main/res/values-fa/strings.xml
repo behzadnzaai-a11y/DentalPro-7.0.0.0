@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">دنتال‌پرو</string>
+    <string name="dashboard">داشبورد مدیریت</string>
+    <string name="nav_patients">پرونده بیماران</string>
+    <string name="nav_appointments">نوبت‌دهی و تقویم</string>
+    <string name="nav_billing">امور مالی و خزانه‌داری</string>
+    <string name="nav_lab">لابراتوار دندان</string>
+    <string name="nav_rx">نسخه‌نویسی و داروها</string>
+    <string name="nav_reports">گزارشات و آمار</string>
+    <string name="nav_settings">تنظیمات مطب</string>
+    <string name="nav_vendors">فروشندگان و فاکتورها</string>
+    <string name="nav_maintenance">تعمیر و نگهداری یونیت</string>
+    <string name="nav_expenses">هزینه‌های جاری</string>
+    <string name="nav_personal">حسابداری شخصی پزشک</string>
+    <string name="nav_more">امکانات بیشتر</string>
+
+    <string name="action_add_patient">بیمار جدید</string>
+    <string name="action_search">جستجو…</string>
+    <string name="action_save">ذخیره</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_edit">ویرایش</string>
+    <string name="action_share">اشتراک‌گذاری</string>
+    <string name="action_backup">پشتیبان‌گیری</string>
+    <string name="action_restore">بازیابی اطلاعات</string>
+    <string name="action_print">چاپ سند</string>
+    <string name="action_whatsapp">ارسال به واتساپ</string>
+
+    <string name="role_doctor">پزشک (مدیر درمان)</string>
+    <string name="role_assistant">منشی / دستیار</string>
+    <string name="role_accountant">حسابدار مطب</string>
+    <string name="role_switch_prompt">جهت تغییر نقش، رمز ورود مدیر مطب را وارد کنید</string>
+
+    <string name="currency_toman">تومان</string>
+    <string name="currency_rial">ریال</string>
+    <string name="currency_usd">دلار ($)</string>
+    <string name="currency_eur">یورو (€)</string>
+
+    <string name="entity_treatment_stages">مراحل درمان و چک‌لیست بالینی</string>
+    <string name="entity_patient_documents">مدارک، تصاویر و گرافی‌های بیمار</string>
+    <string name="entity_vendor_invoices">فاکتورهای خرید و سفارشات فروشندگان</string>
+    <string name="access_denied_title">عدم دسترسی به این بخش</string>
+    <string name="access_denied_message">نقش فعال شما اجازه دسترسی به این ماژول را ندارد.</string>
+
+    <string name="cloud_backup_title">پشتیبان‌گیری ابری</string>
+    <string name="cloud_backup_success">پشتیبان‌گیری ابری رمزنگاری‌شده با موفقیت انجام شد.</string>
+    <string name="local_backup_title">پشتیبان‌گیری محلی</string>
+    <string name="local_backup_success">فایل پشتیبان محلی شامل تمام رکوردها، تصاویر و اسناد ایجاد شد.</string>
+    <string name="auto_backup">اتوبک‌آپ خودکار</string>
+</resources>

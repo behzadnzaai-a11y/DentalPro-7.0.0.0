@@ -1,0 +1,6 @@
+{
+  "name": "DentalPro",
+  "description": "Comprehensive, lightning-fast, and bilingual (Persian/English) Dental Practice ERP with patient records, billing, appointment scheduling, lab management, and dentist financial accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
